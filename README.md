@@ -1,0 +1,1 @@
+Code for ME 75. Any code here will be deal with computer vision either with the nicla vision for real-time projectile information storage or for the zed camera/nvidia jetson orin nano for elevation map creation and for SLAM algorithm
